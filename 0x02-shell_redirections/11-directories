@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al| grep drw | wc -l
+ls -lRa | grep drw|wc -l
